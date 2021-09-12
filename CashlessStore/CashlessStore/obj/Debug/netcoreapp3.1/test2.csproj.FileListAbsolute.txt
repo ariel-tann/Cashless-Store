@@ -1,0 +1,10 @@
+/Users/ariel/Projects/test2/test2/bin/Debug/netcoreapp3.1/test2.deps.json
+/Users/ariel/Projects/test2/test2/bin/Debug/netcoreapp3.1/test2.runtimeconfig.json
+/Users/ariel/Projects/test2/test2/bin/Debug/netcoreapp3.1/test2.runtimeconfig.dev.json
+/Users/ariel/Projects/test2/test2/bin/Debug/netcoreapp3.1/test2.dll
+/Users/ariel/Projects/test2/test2/bin/Debug/netcoreapp3.1/test2.pdb
+/Users/ariel/Projects/test2/test2/obj/Debug/netcoreapp3.1/test2.csprojAssemblyReference.cache
+/Users/ariel/Projects/test2/test2/obj/Debug/netcoreapp3.1/test2.AssemblyInfoInputs.cache
+/Users/ariel/Projects/test2/test2/obj/Debug/netcoreapp3.1/test2.AssemblyInfo.cs
+/Users/ariel/Projects/test2/test2/obj/Debug/netcoreapp3.1/test2.dll
+/Users/ariel/Projects/test2/test2/obj/Debug/netcoreapp3.1/test2.pdb
