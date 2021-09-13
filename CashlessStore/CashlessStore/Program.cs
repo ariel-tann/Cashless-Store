@@ -11,8 +11,7 @@ namespace store
     {
         static void Main(string[] args)
         {
-            //Name: Tan En Hui Ariel
-            //Student ID: 10497285
+            
 
 
 
